@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="5_motion_detection_mpu6050_mqtt" Database="" Version="10000">
+  <Project Name="5_motion_detection_mpu6050_mqtt" Path="5_motion_detection_mpu6050_mqtt.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="5_motion_detection_mpu6050_mqtt" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="5_motion_detection_mpu6050_mqtt" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

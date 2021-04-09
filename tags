@@ -1,0 +1,2 @@
+MPU6050_Init	E:\ESP32_proj\5_motion_detection_mpu6050_mqtt\main\MPU6050.c	/^void MPU6050_Init(void)$/;"	function	line:10	signature:(void)	returns:void 
+read_mpu	E:\ESP32_proj\5_motion_detection_mpu6050_mqtt\main\MPU6050.c	/^int read_mpu(mpu_data_t *tmp)$/;"	function	line:26	signature:(mpu_data_t *tmp)	returns:int 
